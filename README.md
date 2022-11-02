@@ -19,7 +19,7 @@ Issues allow the Development Team to keep track of what is fixed, what needs fix
 
 **Before you create an issue,** search and make sure someone hasn't reported it already! Duplicates will be linked to the original issue and closed.
 
-1. Click on the Issues tab above and select New Issue (or [click here](https://github.com/MCMagicParks/IssueTracker/issues/new))
+1. Click on the Issues tab above and select New Issue (or [click here](https://github.com/MCMagic-Archive/IssueTracker/issues/new))
 2. Give your issue a quick, descriptive title. (ex: Resource Pack not downloading, Creator Tag not showing, error starting CTF)
 3. Describe the issue the best you can in the Write area. Don't hold back, write as much as you can. You can also format using the format options above the text box.
 4. Submit the issue by clicking Submit new issue.
